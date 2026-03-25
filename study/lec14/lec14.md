@@ -4,6 +4,10 @@ From "learning to predict" to "learning to control"
 
 Independent and Identically Distributed
 
+
+过去 i.i.d distributede data
+ground truth supervision
+objective is to predict the right label
 IID : $p(\mathcal{D}) = \prod_i p(y_i|x_i)p(x_i)$
 
 each decision can change future inputs(not independent)
@@ -32,3 +36,14 @@ Multimodal behavior
 
 
 - 解决问题1 就是RNN
+
+- 解决问题2？？
+
+
+
+Dagger 算法
+
+分类的思想在
+本质上还是分类的思想
+
+有一个loop
