@@ -123,6 +123,7 @@ Writing $\phi_i = [h_i, \theta_p]$ is a logical abstraction to uniformly describ
 
 > black-box meta-learning
 > non-parametric meta-learning
+[meta-learning is parameterized, but adaptation is not parameterized]
 > gradient-based meta-learning
 Meta-learning's "smartness" lies in the way it processes data.
 
